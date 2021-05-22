@@ -11,3 +11,4 @@ for over 20 years I worked in the Telecommunications field. First as an analyst,
 
 
 
+![image](https://user-images.githubusercontent.com/11559355/119230572-d5fa5b00-baea-11eb-9267-5b763e7403c6.png)
