@@ -1,4 +1,4 @@
-### Chaka Hamilton 🛠️
+# Chaka Hamilton 🛠️
 
 
 Hi I’m Chaka I like to break things and make them better.  I am an Inventor, Maker, & Home-brewer.  I have a passion for helping others through technology. In the early 80’s I started  taking things apart, and figuring out how they work. My primary focus  is Assistive technologies, for individuals with physical disabilities. I have Bachelor of Science – BS focused in Anthropology from Adelphi University.
