@@ -8,7 +8,6 @@ for over 20 years I worked in the Telecommunications field. First as an analyst,
 
 8 years ago, I started brewing beer, and that then turned into another hobby of building brewing rigs. I’ve found that most Home-brewers are also makers. 
 
-In late 2017 I was diagnosed with squamous cell carcinoma. While fighting that battle and winning at it, I came up with several Ideas that would help people in my situation. The projects you’ll see here on the site are the results of those Ideas. When you have a lot of time on your hands like I did, you come up with some amazing things.
-
+In late 2017 I was diagnosed with squamous cell carcinoma. While fighting that battle and winning at it, I came up with several Ideas that would help people in my situation. The projects you’ll see in my Github are the results of those ideas. 
 
 
