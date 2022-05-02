@@ -36,9 +36,11 @@ In late 2017 I was diagnosed with squamous cell carcinoma. While fighting that b
   <a href="https://instagram.com/chakahamilton">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://paypal.me/chakahamilton">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
 </div>
   
 
-<a href="https://paypal.me/chakahamilton">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+
 
