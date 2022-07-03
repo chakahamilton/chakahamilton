@@ -53,7 +53,7 @@ In late 2017 I was diagnosed with [squamous cell carcinoma](https://www.mskcc.or
 </div>
 
 ## Help fund 
-<a href="https://paypal.me/chakahamilton/2">
+<a href="https://paypal.me/chakahamilton/20">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 <a href="https://ko-fi.com/chakahamilton">
